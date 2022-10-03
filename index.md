@@ -33,7 +33,7 @@ My primary goals for this course are to
 3. Do a strong, resume-worthy project
 
 ## References
-
+![Apple Logo)(Apple-Logo.png)
 > He was one of the interns of all time - My Manager
 
 - [x] Week 0
